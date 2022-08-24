@@ -2,6 +2,7 @@
 
 [![CircleCI](https://circleci.com/gh/vmware-tanzu/kubeapps/tree/main.svg?style=svg)](https://circleci.com/gh/vmware-tanzu/kubeapps/tree/main)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/7e0e2833-1d75-43f6-b006-632d359bb83b/deploy-status)](https://app.netlify.com/sites/kubeapps-dev/deploys)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fantgamdia%2Fkubeapps.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fantgamdia%2Fkubeapps?ref=badge_shield)
 
 ## Overview
 
@@ -60,3 +61,7 @@ If you are ready to jump in and test, add code, or help with documentation, foll
 ## Changelog
 
 Take a look at the list of [releases](https://github.com/vmware-tanzu/kubeapps/releases) to stay tuned for the latest features and changes.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fantgamdia%2Fkubeapps.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fantgamdia%2Fkubeapps?ref=badge_large)
